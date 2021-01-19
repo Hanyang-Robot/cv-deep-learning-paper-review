@@ -12,8 +12,6 @@ Kaiming He, Xiangyu Zhang, Shaoqing Ren,  Jian Sun, 2015 (Microsoft Research)
 
 * paper : https://arxiv.org/pdf/1512.03385.pdf
 
-### (1-2) MobileNet
-
 ---------------------------------------
 ## 2. Object Detection
 
@@ -27,6 +25,7 @@ Ross Girshick, Jeff Donahue, Jitendra Malik, 2015 (IEEE)
 
 * paper : http://islab.ulsan.ac.kr/files/announcement/513/rcnn_pami.pdf
 
+
 ### (2-2) YOLOv3
 [YOLOv3: An Incremental Improvement
 ]
@@ -36,6 +35,7 @@ Joseph Redmon, Ali Farhadi
 * review : https://ropiens.tistory.com/43?category=896592
 
 * paper : https://arxiv.org/pdf/1804.02767.pdf
+
 
 ### (2-3) YOLOv4
 [YOLOv4: Optimal Speed and Accuracy of Object Detection]
