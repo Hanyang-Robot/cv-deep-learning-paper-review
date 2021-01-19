@@ -8,6 +8,10 @@ Computer Vision Deep Learning's Paper Review By Seunghwan
 
 Kaiming He, Xiangyu Zhang, Shaoqing Ren,  Jian Sun, 2015 (Microsoft Research)
 
+* review : https://ropiens.tistory.com/32?category=896592
+
+* paper : https://arxiv.org/pdf/1512.03385.pdf
+
 ### (1-2) MobileNet
 
 ---------------------------------------
@@ -18,3 +22,9 @@ Kaiming He, Xiangyu Zhang, Shaoqing Ren,  Jian Sun, 2015 (Microsoft Research)
 ### (2-2) Fast R-CNN
 
 ### (2-3) Faster R-CNN
+
+---------------------------------------
+## 3. Character recognition
+
+### (3-1) What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis
+
