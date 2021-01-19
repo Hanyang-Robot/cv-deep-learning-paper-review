@@ -4,7 +4,7 @@ Computer Vision Deep Learning's Paper Review By Seunghwan
 ## 1. BackBone
 
 ### (1-1) ResNet
-[Deep Residual Learning for Image Recognition]
+[Deep Residual Learning for Image Recognition]\n
 Kaiming He, Xiangyu Zhang, Shaoqing Ren,  Jian Sun, 2015 (Microsoft Research)
 
 ### (1-2) MobileNet
