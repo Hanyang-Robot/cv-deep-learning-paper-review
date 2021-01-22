@@ -21,7 +21,7 @@ Accurate Object Detection and Segmentation]
 
 Ross Girshick, Jeff Donahue, Jitendra Malik, 2015 (IEEE)
 
-* review : studying...
+* review : https://ropiens.tistory.com/73
 
 * paper : http://islab.ulsan.ac.kr/files/announcement/513/rcnn_pami.pdf
 
